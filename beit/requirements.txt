@@ -1,0 +1,8 @@
+torch         
+torchaudio
+torchvision
+datasets
+transformers
+numpy
+pillow
+imgaug
