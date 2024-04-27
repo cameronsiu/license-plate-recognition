@@ -1,0 +1,2 @@
+vit/vit_license_plate_detector.keras filter=lfs diff=lfs merge=lfs -text
+vit/vit_license_plate_detector.weights.h5 filter=lfs diff=lfs merge=lfs -text
