@@ -1,0 +1,11 @@
+notebook
+datasets
+opencv-python
+plotly
+matplotlib
+scikit-image
+scikit-learn
+torchvision
+albumentations
+transformers
+timm
