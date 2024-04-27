@@ -1,0 +1,5 @@
+notebook
+keras
+datasets
+
+-r requirements-torch-cuda.txt
